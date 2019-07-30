@@ -1,0 +1,10 @@
+name: SpecialQueryGenerator
+authors:
+  - xX_LukiMiner_Xx
+version: 1.0
+main: me.lukiminer.specialquerygenerator.SpecialQueryGenerator
+
+api-version: 1.13
+
+commands:
+  reopen:
